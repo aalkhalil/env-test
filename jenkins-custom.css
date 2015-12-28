@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 img#jenkins-head-icon{visibility: hidden !important;}
-div#header,div#breadcrumbBar{
+div#header,div.top-sticker-inner{
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+44,000000+78,000000+100 */
 background: rgb(255,255,255); /* Old browsers */
 background: -moz-linear-gradient(left,  rgba(255,255,255,1) 0%, rgba(255,255,255,1) 44%, rgba(0,0,0,1) 78%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
