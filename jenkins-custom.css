@@ -7,8 +7,9 @@ background: -moz-linear-gradient(left,  rgba(255,255,255,1) 0%, rgba(255,255,255
 background: -webkit-linear-gradient(left,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 44%,rgba(0,0,0,1) 78%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(to right,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 44%,rgba(0,0,0,1) 78%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000',GradientType=1 ); /* IE6-9 */
-height: 50px;
 }
+
+div#header{height: 50px;}
 div.logo{background-image: url('http://cdn3.uvnimg.com/12/7b/68dc73b54ed9bfe7f66c5be27cc9/356x51-univisioncom-logo-2x.jpg');
 display: inline-block;
 width: 355px;
