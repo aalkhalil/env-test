@@ -20,4 +20,4 @@ input#search-box{
     border-color: #000000;
     border-radius: 0
 }
-#breadcrumbs LI:hover{background-color:transparent !important;}
+#breadcrumbs LI:hover, a.breadcrumbBarAnchor.mouseIsOverMenuSelector{background-color:transparent !important;}
