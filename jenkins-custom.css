@@ -12,7 +12,7 @@ height: 50px;}
 a#jenkins-home-link{display:none;}
 div.top-sticker.noedge{top:50px;}
 div#page-head a{color: #000000 !important;}
-ul#breadcrumbs{border-bottom: 1px solid #080608;}
+ul#breadcrumbs{border-bottom: 5px solid #9e0e92;}
 div#breadcrumbBar{background-color:transparent}
 
 input#search-box{
