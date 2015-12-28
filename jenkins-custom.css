@@ -15,7 +15,7 @@ div#page-head a{color: #000000 !important;}
 ul#breadcrumbs{border-bottom: 1px solid #080608;}
 div#breadcrumbBar{background-color:transparent}
 
-input#search-box.has-default-text.yui-ac-input.defaulted{
+input#search-box{
     box-shadow: none;
     border-color: #000000;
     border-radius: 0
