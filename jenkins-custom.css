@@ -18,3 +18,4 @@ a#jenkins-home-link{display:none;}
 div.top-sticker.noedge{top:50px;}
 div#right-top-nav a{color: #ffffff;}
 ul#breadcrumbs{border-bottom: 1px solid #080608;}
+div#breadcrumbBar{background-color:transparent}
