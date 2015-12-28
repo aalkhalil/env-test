@@ -1,3 +1,2 @@
-img#jenkins-head-icon{
-    visibility: hidden !important;
-}
+@charset 'UTF-8';
+img#jenkins-head-icon{visibility: hidden !important;}
