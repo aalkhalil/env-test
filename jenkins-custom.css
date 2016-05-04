@@ -1,11 +1,11 @@
 @charset 'UTF-8';
 
 body{
-    background-image: url('https://raw.githubusercontent.com/aalkhalil/env-test/master/bg-christmas.png');
+    background-image: url('https://cdn.rawgit.com/aalkhalil/env-test/master/all-apps.png');
     background-position-y: bottom;
-    background-position-x: -100px;
+    background-position-x: right;
     background-repeat: no-repeat;
-    background-size: 45%
+    background-size: 45%;
 }
 img#jenkins-head-icon{visibility: hidden !important;}
 div#header,div.top-sticker-inner,ul#breadcrumbs{
