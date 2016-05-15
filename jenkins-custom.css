@@ -1,11 +1,11 @@
 @charset 'UTF-8';
 
 body{
-    background-image: url('https://cdn.rawgit.com/aalkhalil/env-test/master/all-apps.png');
+    background-image: url('https://rawgit.com/aalkhalil/env-test/master/spring-banner.png');
     background-position-y: bottom;
-    background-position-x: right;
+    background-position-x: 0;
     background-repeat: no-repeat;
-    background-size: 45%;
+    background-size: 20%;
 }
 img#jenkins-head-icon{visibility: hidden !important;}
 div#header,div.top-sticker-inner,ul#breadcrumbs{
